@@ -19,7 +19,7 @@ Others (PC Game Pass, Epic)
    นำไฟล์ Thai.txt วางไว้ในโฟลเดอร์ Localizations
    เข้าเกมแล้วเปลี่ยนภาษาเป็น Thai
 
-   *******แปลเพิ่มจาก******* https://github.com/taewaponb/cms-2021-th *******
+   *******แปลเพิ่มจาก******* คุณ https://github.com/taewaponb/cms-2021-th *******
    *******แปล Mission/Tutorial/Rebind/Order Description เพิ่มและบางบรรทัดจากคนก่อน*******
    *******แปลเพิ่มจากคนแปลก่อนหน้านี้ เพิ่ม6XX/6XXX บรรทัด (~10.0% ของไฟล์)*******
 
