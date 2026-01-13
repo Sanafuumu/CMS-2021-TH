@@ -1,7 +1,5 @@
-# แปลภาษาไทยสำหรับเกม Car Mechanic Simulator 2021
-(Thai Localization for Car Mechanic Simulator 2021)
-CMS-2021-TH
-
+# แปลภาษาไทยสำหรับเกม Car Mechanic Simulator 2021 (Thai Localization for Car Mechanic Simulator 2021)
+แปล en to th เพิ่มเตืม
  📝 วิธีติดตั้ง - How to install
 
 Steam
